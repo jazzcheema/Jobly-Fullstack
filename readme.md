@@ -165,6 +165,10 @@ Frontend Tests:
 *This is where you can view all jobs for a specific company. You can also search by company or job/salary/equity.*
 <br/>
 <br/>
+![Screenshot](./assets/component-design.png)
+*Component design sketch-- implemented with React.*
+<br/>
+<br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
